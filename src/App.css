@@ -1,0 +1,5 @@
+@media (max-width: 767px) {
+    .text-blue-500 {
+      display: none;
+    }
+  }
