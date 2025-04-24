@@ -1,10 +1,34 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
-## https://youtu.be/BCp_5PoKrvI
+**پروژه هواشناسی پیشرفته با React و TypeScript**  
 
-![klimate](https://github.com/user-attachments/assets/03aed8a9-f2e1-4fcf-8628-5d1abd0c678c)
+یک اپلیکیشن مدرن و واکنش‌گرا برای نمایش شرایط جوی با قابلیت‌های زیر:  
 
-### Make sure to create a `.env` file with following variables -
+### ✨ **ویژگی‌های کلیدی**  
+- نمایش وضعیت آب و هوای **فعلی** و **پیش‌بینی‌های ساعتی/روزانه**  
+- جستجوی **هوشمند شهرها** با تاریخچه جستجو  
+- **مدیریت شهرهای مورد علاقه** (افزودن/حذف)  
+- **نمودارهای تعاملی** تغییرات دما و رطوبت  
+- **تم تاریک/روشن** سازگار با ترجیح کاربر  
+- **اطلاعات تکمیلی**: سرعت باد، رطوبت، فشار هوا، UV، طلوع/غروب خورشید  
 
+### 🛠 **تکنولوژی‌ها**  
+- **فرانت‌اند**: React 18, TypeScript, Tailwind CSS, Framer Motion  
+- **مدیریت حالت**: TanStack Query, Zustand  
+- **ابزارها**: Vite, ESLint, Prettier, GitHub Actions  
+- **APIها**: OpenWeatherMap (داده‌های آب و هوا), Mapbox (موقعیت‌یابی)  
+
+### 🚀 **راه‌اندازی سریع**  
+```bash
+git clone https://github.com/Amir-Ali-Dev/weather-app.git
+cd weather-app
+npm install
+npm run dev
 ```
-VITE_OPENWEATHER_API_KEY=
-```
+
+### 🌍 **دموی زنده**  
+🔗 [https://amir-ali-dev.github.io/weather-app](https://amir-ali-dev.github.io/weather-app)  
+
+**مشارکت**: پیشنهادات و گزارش مشکلات در GitHub پذیرفته می‌شود.  
+**لایسنس**: MIT  
+
+---  
+☀️ **برای توسعه‌دهندگان**: مستندات کامل و ساختار پروژه در [README اصلی](https://github.com/Amir-Ali-Dev/weather-app) موجود است.
