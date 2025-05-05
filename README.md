@@ -71,7 +71,7 @@ npm run build
 
 ## 🌐 لینک‌های مفید
 
-- 🔍 [دموی زنده](https://amir-ali-dev.github.io/weather-app)
+- 🔍 [دموی زنده](https://weather.amirali-dev.com/)
 - 📝 [مستندات فنی](https://github.com/Amir-Ali-Dev/weather-app/wiki)
 - 🐛 [گزارش مشکل](https://github.com/Amir-Ali-Dev/weather-app/issues)
 
